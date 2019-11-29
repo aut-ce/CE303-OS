@@ -1,2 +1,2 @@
-# OS101
+# OS
 Operating Systems Course Materials
